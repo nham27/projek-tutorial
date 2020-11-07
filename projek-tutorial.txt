@@ -1,4 +1,5 @@
 PROJEK TUTORIAL
 -belajar buat projek guna laravel
 -buat projek tutorial yang baru belajar
--belajar java
+-belajar ajax
+-belajar untuk jadi front-web developer
